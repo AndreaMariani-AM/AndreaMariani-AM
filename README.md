@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="900" height="500" src="https://github.com/AndreaMariani-AM/AndreaMariani-AM/blob/main/IMG_3611-1.jpg">
+  <img width="800" height="450" src="https://github.com/AndreaMariani-AM/AndreaMariani-AM/blob/main/IMG_3611-1.jpg">
 </p>
 
 
