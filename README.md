@@ -1,4 +1,4 @@
-### 'Sup Dude 👋
+### 'Sup Dude 👊
 
 ## Andrea Mariani
 Former Molecular biologist turned computational biologist working on all things Chromatin.
@@ -11,6 +11,7 @@ I'm currently a PhD student @[Epigenetics Mechanisms in Cancer](https://www.rese
 
 #### Contact 📫
 
+[![linkedin](https://github.com/MartinBanchero/MartinBanchero/blob/master/linkedins.png) Andrea Mariani](https://www.linkedin.com/in/andrea-mariani-584138175/) &nbsp;
 <!--
 **AndreaMariani-AM/AndreaMariani-AM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
