@@ -1,5 +1,5 @@
 <h1 align="center">'Sup Dude 👊</h1>
-<h3 align="center">Andrea Mariani:surfing_man:.</h3>
+<h3 align="center">Andrea Mariani:surfing_man:, PhD Student.</h3>
 
 Former Molecular biologist turned computational biologist working on all things Chromatin.
 
@@ -9,9 +9,18 @@ I'm currently a PhD student @[Epigenetics Mechanisms in Cancer](https://www.rese
 - :dog: Passionate about Epigenetics, Genomics and Transcriptomics
 - 🌱 Learning Single Cell methods for Genomics and Transcriptomics
 
-#### Contact 📫
+#### Contacts & Socials 📫
 
-[![linkedin](https://github.com/MartinBanchero/MartinBanchero/blob/master/linkedins.png) Andrea Mariani](https://www.linkedin.com/in/andrea-mariani-584138175/) &nbsp;
+- Drop me a message: **andrea.mariani@ieo.it** 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+   <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="adampithewan" height="30" width="40" /></a>
 <!--
 **AndreaMariani-AM/AndreaMariani-AM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
