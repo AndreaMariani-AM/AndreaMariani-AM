@@ -1,5 +1,5 @@
 <h1 align="center">'Sup Dude 👊</h1>
-<h3 align="center">Andrea Mariani🌟.</h3>
+<h3 align="center">Andrea Mariani:surfing_man:.</h3>
 
 Former Molecular biologist turned computational biologist working on all things Chromatin.
 
