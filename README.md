@@ -1,7 +1,7 @@
 <h1 align="center">'Sup Dude 👊</h1>
 <h3 align="center">Andrea Mariani:surfing_man:, PhD Student.</h3>
 
-Former Molecular biologist turned computational biologist working on all things Chromatin.
+Molecular biologist turned computational biologist working on all things Chromatin.
 
 I'm currently a PhD student @[Epigenetics Mechanisms in Cancer](https://www.research.ieo.it/research-and-technology/principal-investigators/epigenetic-mechanisms-in-cancer/) lab in Milan (IT). Previously a Molelecular Biologist @[University Of Helsinki](https://www.helsinki.fi/en) (FI) in the [Rare Cancers Research Groups](https://www2.helsinki.fi/en/researchgroups/rare-cancers-research-group/group)
 
