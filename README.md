@@ -12,7 +12,7 @@ I'm currently a PhD student @[Epigenetics Mechanisms in Cancer](https://www.rese
 
 - 🔭 Working on the interplay between Epigenetic mechanisms and their implication in gene regulation 
 - :dog: Passionate about Epigenetics, Genomics and Transcriptomics
-- 🌱 Learning Single Cell methods for Genomics and Transcriptomics
+- 🌱 Learning Single Cell methods for Genomics and Transcriptomics and Hi-C
 
 ### Contacts 📫
 
