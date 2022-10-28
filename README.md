@@ -27,7 +27,11 @@ I'm currently a PhD student @[Epigenetics Mechanisms in Cancer](https://www.rese
    <a href="https://twitter.com/Andrea1Mariani" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
-  
+      
+<div id="badges", align="left">
+  <a href="views counter">
+    <img src="https://komarev.com/ghpvc/?username=emanuelavilla&style=flat-square&color=red" alt=""/>
+</div>
   
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndreaMariani-AM&theme=synthwave)](https://git.io/streak-stats)
