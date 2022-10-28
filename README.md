@@ -29,7 +29,8 @@ I'm currently a PhD student @[Epigenetics Mechanisms in Cancer](https://www.rese
       alt="adampithewan" height="30" width="40" /></a>
   
   
-  
+### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndreaMariani-AM&theme=tokyonight)](https://git.io/streak-stats)
   
 <!--
 **AndreaMariani-AM/AndreaMariani-AM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
