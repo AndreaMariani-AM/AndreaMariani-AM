@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">'Sup Y'all 👊</h1>
+<h1 align="center">Hello Y'all 👊</h1>
 <h3 align="center">Andrea Mariani :surfing_man: PhD Student.</h3>
 
 Molecular biologist turned computational biologist working on all things Chromatin.
