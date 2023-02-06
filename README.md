@@ -2,6 +2,11 @@
   <img width="800" height="450" src="https://github.com/AndreaMariani-AM/AndreaMariani-AM/blob/main/IMG_3611-1.jpg">
 </p>
 
+[![Work Stuff](https://img.shields.io/badge/My%20job-IEO-success?style=flat-square&logo=IEO&logoColor=white)]([https://www.research.ieo.it/emanuel-michele-soda/](https://www.research.ieo.it/andrea-mariani/))
+[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Editor](https://img.shields.io/badge/Editor-rstudio-blue?style=flat-square&logo=Rstudio&logoColor=white)](https://www.rstudio.com/)
 
 <h1 align="center">Hello Y'all 👊</h1>
 <h3 align="center">Andrea Mariani :surfing_man: PhD Student.</h3>
@@ -13,12 +18,6 @@ I'm currently a PhD student @[Epigenetics Mechanisms in Cancer](https://www.rese
 - 🔭 Working on the interplay between Epigenetic mechanisms and their implication in gene regulation 
 - :dog: Passionate about Epigenetics, Genomics and Transcriptomics
 - 🌱 Learning Single Cell methods for Genomics and Transcriptomics and Hi-C
-
-[![Work Stuff](https://img.shields.io/badge/My%20job-IEO-success?style=flat-square&logo=IEO&logoColor=white)]([https://www.research.ieo.it/emanuel-michele-soda/](https://www.research.ieo.it/andrea-mariani/))
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Editor](https://img.shields.io/badge/Editor-rstudio-blue?style=flat-square&logo=Rstudio&logoColor=white)](https://www.rstudio.com/)
 
 ### Contacts 📫
 
