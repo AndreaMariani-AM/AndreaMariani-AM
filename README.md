@@ -25,7 +25,7 @@ I'm currently a PhD student @[Epigenetics Mechanisms in Cancer](https://www.rese
 - Drop me a message: **andrea.mariani@ieo.it** 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Wanna Chat 💻 :</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/andrea-mariani-584138175/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -33,10 +33,13 @@ I'm currently a PhD student @[Epigenetics Mechanisms in Cancer](https://www.rese
    <a href="https://twitter.com/Andrea1Mariani" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/andrea__.mariani/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="adampithewan" height="30" width="40" /></a>
       
 <div id="badges", align="left">
   <a href="views counter">
-    <img src="https://komarev.com/ghpvc/?username=emanuelavilla&style=flat-square&color=red" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=AndreaMariani-AM&style=flat-square&color=red" alt=""/>
 </div>
   
 ### :fire: My Stats :
