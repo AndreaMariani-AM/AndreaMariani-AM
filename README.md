@@ -16,9 +16,10 @@ Molecular biologist turned computational biologist working on all things Chromat
 
 I'm currently a PhD student @[Epigenetics Mechanisms in Cancer](https://www.research.ieo.it/research-and-technology/principal-investigators/epigenetic-mechanisms-in-cancer/) lab in Milan (IT). Previously a Molelecular Biologist @[University Of Helsinki](https://www.helsinki.fi/en) (FI) in the [Rare Cancers Research Groups](https://www2.helsinki.fi/en/researchgroups/rare-cancers-research-group/group)
 
-- 🔭 Working on the interplay between Epigenetic mechanisms and their implication in gene regulation 
-- :dog: Passionate about Epigenetics, Genomics and Transcriptomics
-- 🌱 Learning Single Cell methods for Genomics and Transcriptomics and Hi-C
+Thinks i like/enjoy:
+1) I'm Working on the interplay between Epigenetic mechanisms and their implication in gene regulation 
+2) I'm Passionate about Epigenetics, Genomics and Transcriptomics
+3) I'm Learning Deep Learning models for Genomics and Epigenomics (i'd love to collab).
 
 ### Contacts 📫
 
