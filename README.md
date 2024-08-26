@@ -10,7 +10,6 @@
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Editor](https://img.shields.io/badge/Editor-rstudio-blue?style=flat-square&logo=Rstudio&logoColor=white)](https://www.rstudio.com/)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Molecular biologist turned computational biologist working on all things Chromatin.
 
