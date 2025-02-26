@@ -11,7 +11,7 @@
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Editor](https://img.shields.io/badge/Editor-rstudio-blue?style=flat-square&logo=Rstudio&logoColor=white)](https://www.rstudio.com/)
 
-Molecular biologist turned computational biologist working on all things Chromatin.
+Computational biologist working on all things Chromatin and gene regulation. Currently trying to understand the cis-regulatory code of mESC
 
 I'm currently a PhD student @[Epigenetics Mechanisms in Cancer](https://www.research.ieo.it/research-and-technology/principal-investigators/epigenetic-mechanisms-in-cancer/) lab in Milan (IT). Previously a Molelecular Biologist @[University Of Helsinki](https://www.helsinki.fi/en) (FI) in the [Rare Cancers Research Groups](https://www2.helsinki.fi/en/researchgroups/rare-cancers-research-group/group)
 
